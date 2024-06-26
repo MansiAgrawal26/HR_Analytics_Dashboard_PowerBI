@@ -55,5 +55,4 @@ The objective of this project is to identify the key factors driving employee at
 5. **Job Role Affected:** The sales role had the highest attrition rate, indicating a need for focused retention efforts in this department to reduce turnover.
 7. **Attrition Rate by Gender for Different Age Group:**  The attrition count among the age group of 26-35 years 606 which is maximum among the other age groups.
    
-![HR Analytics dashboard](https://github.com/MansiAgrawal26/HR_Analytics_Dashboard_PowerBI/blob/master/HR%20Analytics%20Dashboard.jpg)
-
+![HR Analytics dashboard](https://github.com/MansiAgrawal26/HR_Analytics_Dashboard_PowerBI/blob/master/Dashboard.jpg)
