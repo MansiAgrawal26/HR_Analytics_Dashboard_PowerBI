@@ -45,9 +45,16 @@ The objective of this project is to identify the key factors driving employee at
 3. Donut chart and Pie Chart
 4. Bar Chart and Cluster chart 📊
 5. KPI(Key Performing Indicators) and Slicer.
-6. Filters: Used to filter data according to different education fields.
+6. Filters: Used to filter data according to gender
 
-
+### Key Insights Summary:
+1. **Total Employees:** The organization has grown significantly, currently employing 1470 individuals, indicating substantial growth and scale.
+2. **Attrition Analysis:** A total of 237 employees left the organization. Among them, 150 were male, and 87 were female, indicating a higher attrition rate among males.
+3. **Departmental Attrition:** The Sales Department experienced the highest attrition rate at 20.6%, suggesting potential areas for improvement in employee retention strategies in this department.
+4. **Education Field Impact:** Employees in the life sciences field had the highest attrition rate, emphasizing the need to address retention challenges in this specific area.
+5. **Job Role Affected:** The sales role had the highest attrition rate, indicating a need for focused retention efforts in this department to reduce turnover.
+7. **Attrition Rate by Gender for Different Age Group:**  The attrition count among the age group of 26-35 years 606 which is maximum among the other age groups.
+   
 ![HR Analytics dashboard](https://github.com/MansiAgrawal26/HR_Analytics_Dashboard_PowerBI/blob/master/HR%20Analytics%20Dashboard.jpg)
 
 
