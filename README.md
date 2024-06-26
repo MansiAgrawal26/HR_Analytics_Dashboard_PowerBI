@@ -10,7 +10,7 @@ The objective of this project is to identify the key factors driving employee at
 
 ## Steps followed:
 
-[Download the dataset from here]
+[Download the dataset from here](https://github.com/MansiAgrawal26/HR_Analytics_Dashboard_PowerBI/blob/master/HR_Analytics%20Dataset.csv)
 
 **1. Data Gathering:** 
   - Importing raw data .csv file into Power BI & transform to Power Query editor for cleaning and data processing.
